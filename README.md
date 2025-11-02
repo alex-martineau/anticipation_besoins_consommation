@@ -1,4 +1,4 @@
-# 🌍 Consumption Needs Anticipation  
+# 🌍 Anticipation des Besoins en Consommation de Bâtiments  
 
 **Projet de modélisation prédictive des consommations énergétiques et émissions de CO₂ des bâtiments non résidentiels de Seattle.**  
 Objectif : contribuer à la stratégie de neutralité carbone 2050 de la ville.
@@ -82,7 +82,7 @@ Le dépôt contient :
 ## 📂 Structure du dépôt  
 
 ```text
-Consumption_Needs_Anticipation
+anticipation_besoins_consommation
 │
 ├── Notebook_1_Exploration_Feature_Engineering.ipynb
 ├── Notebook_2_Modelisation_TotalGHGEmissions.ipynb
