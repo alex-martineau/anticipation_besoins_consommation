@@ -84,9 +84,9 @@ Le dépôt contient :
 ```text
 anticipation_besoins_consommation
 │
-├── Notebook_1_Exploration_Feature_Engineering.ipynb
-├── Notebook_2_Modelisation_TotalGHGEmissions.ipynb
-├── Notebook_3_Modelisation_SiteEnergyUseWN.ipynb
-├── Martineau_Alexandre_4_presentation_05204.pdf
+├── Notebook_1_Exploration_Feature_Engineering.ipynb  # Analyse exploratoire & Feature Engineering
+├── Notebook_2_Modelisation_TotalGHGEmissions.ipynb   # Modélisation de la variable TotalGHGEmissions
+├── Notebook_3_Modelisation_SiteEnergyUseWN.ipynb     # Modélisation de la variable SiteEnergyUseWN(kBtu)
+├── Martineau_Alexandre_4_presentation_05204.pdf      # Présentation PowerPoint
 └── README.md
 ```
